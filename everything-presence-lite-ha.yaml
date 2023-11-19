@@ -27,7 +27,6 @@ api:
 ota:
 
 wifi:
-  ap: {}
 
 dashboard_import:
   package_import_url: github://TripelJ/everything-presence-lite/everything-presence-lite-ha.yaml
